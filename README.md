@@ -50,7 +50,7 @@ This project follows the CRISP-DM framework:
 
 ### YouTube Presentation
 
-(Paste YouTube link here)
+([https://youtu.be/_3YELL2QpQY?si=rn5S2a6lF3-4Lgll])
 
 ## Author
 
