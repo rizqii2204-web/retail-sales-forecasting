@@ -57,4 +57,5 @@ This project follows the CRISP-DM framework:
 **Rizqi Awaliyah**
 
 Information Systems
+
 Global Institute of Technology and Business
